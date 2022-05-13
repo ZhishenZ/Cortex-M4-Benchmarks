@@ -1,0 +1,8 @@
+main.c:41:1:BubbleSortCCM	32	static
+main.c:73:1:BubbleSort	32	static
+main.c:139:5:main	896	static
+main.c:237:6:SystemClock_Config	128	static
+main.c:283:13:MX_TIM2_Init	40	static
+main.c:328:13:MX_USART1_UART_Init	8	static
+main.c:363:13:MX_GPIO_Init	24	static
+main.c:381:6:Error_Handler	4	static,ignoring_inline_asm

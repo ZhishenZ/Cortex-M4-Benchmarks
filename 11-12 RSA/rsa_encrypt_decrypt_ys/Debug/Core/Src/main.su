@@ -1,0 +1,8 @@
+main.c:159:6:encrypt	16	static
+main.c:177:6:decrypto	32	static
+main.c:195:5:main	104	static
+main.c:267:6:SystemClock_Config	128	static
+main.c:313:13:MX_TIM2_Init	40	static
+main.c:358:13:MX_USART1_UART_Init	8	static
+main.c:393:13:MX_GPIO_Init	24	static
+main.c:411:6:Error_Handler	4	static,ignoring_inline_asm
