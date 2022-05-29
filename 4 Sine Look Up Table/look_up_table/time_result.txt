@@ -1,0 +1,2 @@
+0.083000000000000004       --nothing    before time1 = TIM2->CNT;
+0.075999999999999998       --int a =9;  before time1 = TIM2->CNT;

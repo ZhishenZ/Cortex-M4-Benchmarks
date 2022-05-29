@@ -1,0 +1,7 @@
+wcclibm.c:65:9:susan___ieee754_rem_pio2f	72	static
+wcclibm.c:182:7:susan___kernel_cosf	48	static
+wcclibm.c:238:7:susan___kernel_sinf	48	static
+wcclibm.c:302:7:susan___atanf	48	static
+wcclibm.c:370:7:susan___cosf	40	static
+wcclibm.c:416:7:susan___sinf	40	static
+wcclibm.c:467:7:susan___fabsf	32	static

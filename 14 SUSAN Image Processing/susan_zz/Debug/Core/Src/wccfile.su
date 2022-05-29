@@ -1,0 +1,6 @@
+wccfile.c:9:9:susan_wccfread	40	static
+wccfile.c:29:5:susan_wccfgetc	16	static
+wccfile.c:39:7:susan_wccfgets	32	static
+wccfile.c:62:5:susan_wccfseek	24	static
+wccfile.c:81:5:susan_wccfgetpos	16	static
+wccfile.c:89:5:susan_wccfeof	16	static

@@ -1,0 +1,4 @@
+wccmalloc.c:16:7:susan_wccmalloc	24	static
+wccmalloc.c:27:6:susan_wccfreeall	4	static
+wccmalloc.c:32:7:susan_wccmemcpy	40	static
+wccmalloc.c:52:6:susan_wccmemset	32	static

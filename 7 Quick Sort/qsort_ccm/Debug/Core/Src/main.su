@@ -1,0 +1,11 @@
+main.c:72:5:compare	24	static
+main.c:185:2:swapfunc	40	static
+main.c:209:2:med3	24	static
+main.c:226:2:my_qsort	96	static
+main.c:682:5:main	4920	static
+main.c:781:6:SystemClock_Config	128	static
+main.c:827:13:MX_TIM2_Init	40	static
+main.c:872:13:MX_USART1_UART_Init	8	static
+main.c:907:13:MX_GPIO_Init	16	static
+main.c:917:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:930:6:Error_Handler	4	static,ignoring_inline_asm
